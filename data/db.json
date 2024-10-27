@@ -1,0 +1,9 @@
+{
+    "blogs": [
+        { "title": "this is a blog 1", "body": "body content here 1 ...", "author": "mario", "id": 1 },
+        { "title": "this is a blog 2", "body": "body content here 2 ...", "author": "jack", "id": 2 },
+        { "title": "this is a blog 3", "body": "body content here 3 ...", "author": "mario", "id": 3 },
+        { "title": "this is a blog 4", "body": "body content here 4 ...", "author": "mario", "id": 4 },
+        { "title": "this is a blog 5", "body": "body content here 5 ...", "author": "mario", "id": 5 }
+    ]
+}
