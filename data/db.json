@@ -1,9 +1,34 @@
 {
     "blogs": [
-        { "title": "this is a blog 1", "body": "body content here 1 ...", "author": "mario", "id": 1 },
-        { "title": "this is a blog 2", "body": "body content here 2 ...", "author": "jack", "id": 2 },
-        { "title": "this is a blog 3", "body": "body content here 3 ...", "author": "mario", "id": 3 },
-        { "title": "this is a blog 4", "body": "body content here 4 ...", "author": "mario", "id": 4 },
-        { "title": "this is a blog 5", "body": "body content here 5 ...", "author": "mario", "id": 5 }
+        {
+            "title": "The World's Richest Man, Elon Musk, is Determined to Get Donald Trump Elected. What Does He Have to Gain?",
+            "body": "Elon Musk, CEO of Tesla and SpaceX, has shown increased interest in American politics, particularly in the upcoming presidential election. By advocating for policies aligned with Donald Trump's agenda, Musk could be aiming to further his business interests, especially in sectors like space exploration, electric vehicles, and AI. However, critics argue that his influence risks politicizing his companies. As the line between tech and politics blurs, the stakes grow higher—not only for Musk but also for the future of American democracy.",
+            "author": "Mario Thompson",
+            "id": 1
+        },
+        {
+            "title": "Top 10 Tech Trends to Watch in 2024",
+            "body": "The tech world is evolving rapidly, with trends like AI integration, 5G expansion, and advanced cybersecurity solutions shaping the industry. In 2024, experts predict that quantum computing will gain traction, offering unprecedented processing power. Additionally, personalized AI will redefine user experience across platforms, while blockchain continues to mature beyond cryptocurrencies. As businesses adopt these technologies, consumer expectations are set to rise, pushing for innovation that balances security and convenience.",
+            "author": "Jack Collins",
+            "id": 2
+        },
+        {
+            "title": "Is Remote Work Here to Stay? Exploring the Future of Work",
+            "body": "With remote work becoming a mainstay, companies are rethinking traditional office models. While productivity has seen a boost, remote work also brings challenges such as team cohesion and communication. Many businesses are adopting a hybrid model, allowing employees flexibility while maintaining structure. This trend is likely to persist, with companies balancing cost savings on office space and the need to retain top talent. As the workforce adapts, the definition of 'the office' could be forever transformed.",
+            "author": "Mario Thompson",
+            "id": 3
+        },
+        {
+            "title": "The Rising Influence of AI in Healthcare: Pros and Cons",
+            "body": "AI is making waves in healthcare, from assisting in early diagnoses to optimizing patient care through predictive analytics. However, its growth also brings ethical dilemmas—data privacy, potential bias in algorithms, and the dehumanization of care are concerns. While AI has the potential to make healthcare more accessible and efficient, its implementation must be carefully managed. Both the medical community and policymakers are debating how to integrate these tools responsibly.",
+            "author": "Mario Thompson",
+            "id": 4
+        },
+        {
+            "title": "How Climate Change Is Impacting Global Economies",
+            "body": "The effects of climate change extend beyond rising temperatures and weather patterns. Economies worldwide are grappling with the cost of adapting to these changes, from infrastructure adjustments to loss of productivity due to extreme weather. In addition, industries like agriculture, insurance, and tourism are facing direct impacts. While some countries are investing in green technologies, others struggle with the financial burden of mitigation. This article examines how climate change could reshape the global economy.",
+            "author": "Mario Thompson",
+            "id": 5
+        }
     ]
 }

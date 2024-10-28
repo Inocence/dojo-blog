@@ -12,7 +12,6 @@ const BlogList = ({ blogs, title }) => {
                         <Link to={`/blogs/${blog.id}`}>
                             <h2 className="text-red-500 text-xl font-medium">{blog.title}</h2>
                             <p>written by {blog.author}</p>
-                            <div className="">{blog.body}</div>
                         </Link>
                     </div>
                 );
